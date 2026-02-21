@@ -4,7 +4,7 @@
 // saat kita membuat variable, lalu ingin menghapus data yang ada di variable tersebut, kita bisa menggunakan NULL untuk mengosongkan variable tersebut
 // untuk membuat NULL, kita bisa menggunakan kata kunci NULL/null
 
-$nama = "Sakha Pratama";
+$nama = "Sakha ";
 echo "Nama saya = ", $nama, "\n";
 
 $umur = 20; // menghapus value, tetapi tidak dengan variable
